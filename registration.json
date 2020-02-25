@@ -1,0 +1,15 @@
+{
+  "eula" : "yes",
+  "first_name" : "Anish",
+  "last_name" : "kalra",
+  "title" : "SRE",
+  "company" : "Deloitte",
+  "department" : "Engineering",
+  "industry" : "Finance",
+  "email" : "anikalra@deloitte.com",
+  "phone" : "9799639787",
+  "city" : "Bangalore",
+  "state" : "Karnataka",
+  "zip" : "560037",
+  "country" : "India"
+}
